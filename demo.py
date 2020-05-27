@@ -10,7 +10,7 @@ print("Our Demo Program Is Running!")
 # Define variables
 myString = "The bird is green"
 myInt = 57 # int
-myFloat = 10.8
+myFloat = 10.8 #float
 
 char = "A" 
 
