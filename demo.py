@@ -26,7 +26,7 @@ userAge = age1
 
 
 # if true:
-outputStr = "User: %s Age: %s" % (userName, userAge)
+outputStr = "User: %s Age: %s" % (userName, userAge) # output
 
 print(outputStr) 
 
