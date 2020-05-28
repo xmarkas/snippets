@@ -33,7 +33,7 @@ class Window(Frame):
     def init_window(self):
 
         # changing the title of our master widget
-        self.master.title("Pepper Communication Platform")
+        self.master.title("Tkinter demo")
 
         # allowing the widget to take the full space of the root window
         self.pack(fill=BOTH, expand=1)
