@@ -17,8 +17,8 @@ char = "A"
 # Strings
 name1 = "Hajji"
 age1 = "28"
-name2 = "Mark"  # <-----
-age2 = "43"
+name2 = "Julian"  # <-----
+age2 = "6"
 
 # User Data
 userName = name1
